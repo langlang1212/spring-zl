@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+    1、哪些类需要我来关联
+    2、怎么告诉我这些类
+    3、怎么维护依赖关系(setter、construct)
+    4、怎么体现setter或者construct
+-->
+<beans default-autowire="byType">
+    <!-- 按顺序加载bean-->
+    <bean id="userDao" class="com.zhanglang.dao.UserDaoImpl"></bean>
+
+    <bean id="userDao1" class="com.zhanglang.dao.UserDaoImpl1"></bean>
+
+    <bean id="service" class="com.zhanglang.service.UserServiceImpl">
+        <!-- setter-->
+        <property name="userDao" ref="userDao1"></property>
+        <!-- constructor-->
+        <!--<constructor-arg name="userDao" ref="userDao"></constructor-arg>-->
+    </bean>
+
+
+
+</beans>
