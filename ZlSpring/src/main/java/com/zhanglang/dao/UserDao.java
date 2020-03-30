@@ -1,5 +1,8 @@
 package com.zhanglang.dao;
 
+import org.apache.ibatis.annotations.Select;
+import org.springframework.stereotype.Repository;
+
 /**
  * @BelongsProject: Spring-zl
  * @BelongsPackage: com.zhanglang.dao
@@ -8,6 +11,9 @@ package com.zhanglang.dao;
  * @Description:
  */
 public interface UserDao {
-
+    @Select("select * from ddd")
     public void query();
+
+    @Select("select * from ddd")
+    public void aaa();
 }

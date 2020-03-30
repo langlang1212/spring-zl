@@ -1,0 +1,6 @@
+spring:
+  datasource:
+    driver-class-name: com.microsoft.sqlserver.jdbc.SQLServerDriver
+    url: jdbc:sqlserver://39.105.222.40;DatabaseName=newcontract
+    username: sa
+    password: 123456$ecs197

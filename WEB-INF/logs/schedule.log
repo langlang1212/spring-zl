@@ -1,0 +1,5 @@
+2020-03-29 18:00:27  [ main:0 ] - [ ERROR ]  xxxx
+2020-03-29 18:00:27  [ com.zhanglang.log4jdemo.test.main(test.java:15):log:main:0 ] - [ ERROR ]  xxxx
+2020-03-29 18:00:50  [ main:0 ] - [ ERROR ]  xxxx
+2020-03-29 18:00:50  [ com.zhanglang.log4jdemo.test.main(test.java:15):log:main:0 ] - [ ERROR ]  xxxx
+2020-03-29 18:00:58  [ main:0 ] - [ INFO ]  xxxx

@@ -1,7 +1,10 @@
 package com.zhanglang.config;
 
+import com.zhanglang.monimybatis.MyImportBeanDefinitionRegistrar;
+import com.zhanglang.monimybatis.ZhangScan;
 import org.springframework.context.annotation.ComponentScan;
 import org.springframework.context.annotation.Configuration;
+import org.springframework.context.annotation.Import;
 
 /**
  * @BelongsProject: Spring-zl
@@ -12,5 +15,6 @@ import org.springframework.context.annotation.Configuration;
  */
 @Configuration
 @ComponentScan("com")
+@ZhangScan
 public class Appconfig {
 }

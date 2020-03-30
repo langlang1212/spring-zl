@@ -12,4 +12,9 @@ public class UserDaoImpl implements UserDao{
     public void query() {
         System.out.println("dao1");
     }
+
+    @Override
+    public void aaa() {
+
+    }
 }

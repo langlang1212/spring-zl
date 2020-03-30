@@ -12,6 +12,7 @@
         <module>SpringAop</module>
         <module>ProxyCustom</module>
         <module>ZlSpring</module>
+        <module>SpringLog</module>
     </modules>
     <packaging>pom</packaging>
 
