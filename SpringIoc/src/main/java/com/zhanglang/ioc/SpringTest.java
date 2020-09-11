@@ -1,5 +1,6 @@
 package com.zhanglang.ioc;
 
+import com.zhanglang.service.IndexService;
 import org.springframework.context.annotation.AnnotationConfigApplicationContext;
 
 /**
@@ -12,8 +13,8 @@ import org.springframework.context.annotation.AnnotationConfigApplicationContext
 public class SpringTest {
     public static void main(String[] args) {
         AnnotationConfigApplicationContext context = new AnnotationConfigApplicationContext(SpringConfig.class);
-        MyBeanFactory bean = context.getBean(MyBeanFactory.class);
-        //SpringDaoImpl bean = context.getBean(SpringDaoImpl.class);
+        IndexService bean = context.getBean(IndexService.class);
         bean.say();
+        //SpringDaoImpl bean = context.getBean(SpringDaoImpl.class);
     }
 }

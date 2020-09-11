@@ -10,7 +10,7 @@ import org.springframework.stereotype.Repository;
  * @CreateTime: 2020-03-17 09:36
  * @Description:
  */
-@Repository
+/*@Repository*/
 public class SpringDaoImpl implements SpringDao {
     @Override
     public void say() {

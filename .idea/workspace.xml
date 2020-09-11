@@ -2,42 +2,95 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e47b69be-4c2e-4eaa-b6e9-61412622b69a" name="Default Changelist" comment="">
-<<<<<<< HEAD
       <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ZlSpring/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/ZlSpring/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ZlSpring/src/main/java/com/zhanglang/config/Appconfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/ZlSpring/src/main/java/com/zhanglang/config/Appconfig.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ZlSpring/src/main/java/com/zhanglang/dao/UserDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/ZlSpring/src/main/java/com/zhanglang/dao/UserDao.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ZlSpring/src/main/java/com/zhanglang/dao/UserDaoImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/ZlSpring/src/main/java/com/zhanglang/dao/UserDaoImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ZlSpring/src/main/java/com/zhanglang/dao/UserDaoImpl1.java" beforeDir="false" afterPath="$PROJECT_DIR$/ZlSpring/src/main/java/com/zhanglang/dao/UserDaoImpl1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ZlSpring/target/classes/com/zhanglang/config/Appconfig.class" beforeDir="false" afterPath="$PROJECT_DIR$/ZlSpring/target/classes/com/zhanglang/config/Appconfig.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ZlSpring/target/classes/com/zhanglang/dao/UserDao.class" beforeDir="false" afterPath="$PROJECT_DIR$/ZlSpring/target/classes/com/zhanglang/dao/UserDao.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ZlSpring/target/classes/com/zhanglang/dao/UserDaoImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/ZlSpring/target/classes/com/zhanglang/dao/UserDaoImpl.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ZlSpring/target/classes/com/zhanglang/dao/UserDaoImpl1.class" beforeDir="false" afterPath="$PROJECT_DIR$/ZlSpring/target/classes/com/zhanglang/dao/UserDaoImpl1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ZlSpring/target/classes/com/zhanglang/mianshi/BeanFactoryAndFactoryBean.class" beforeDir="false" afterPath="$PROJECT_DIR$/ZlSpring/target/classes/com/zhanglang/mianshi/BeanFactoryAndFactoryBean.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ZlSpring/target/classes/com/zhanglang/mianshi/factorybean/DaoFactoryBean.class" beforeDir="false" afterPath="$PROJECT_DIR$/ZlSpring/target/classes/com/zhanglang/mianshi/factorybean/DaoFactoryBean.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ZlSpring/target/classes/com/zhanglang/service/UserService.class" beforeDir="false" afterPath="$PROJECT_DIR$/ZlSpring/target/classes/com/zhanglang/service/UserService.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ZlSpring/target/classes/com/zhanglang/service/UserServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/ZlSpring/target/classes/com/zhanglang/service/UserServiceImpl.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ZlSpring/target/classes/com/zhanglang/test/Test01.class" beforeDir="false" afterPath="$PROJECT_DIR$/ZlSpring/target/classes/com/zhanglang/test/Test01.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ZlSpring/target/classes/org/spring/util/BeanFactory.class" beforeDir="false" afterPath="$PROJECT_DIR$/ZlSpring/target/classes/org/spring/util/BeanFactory.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ZlSpring/target/classes/org/spring/util/ZlSpringException.class" beforeDir="false" afterPath="$PROJECT_DIR$/ZlSpring/target/classes/org/spring/util/ZlSpringException.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProxyCustom/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/ProxyCustom/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringAop/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/SpringAop/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringAop/src/main/java/com/zhanglang/dao/IndexDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/SpringAop/src/main/java/com/zhanglang/dao/IndexDaoA.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringAop/src/test/java/com/zhanglang/test/ProxyTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/SpringAop/src/test/java/com/zhanglang/test/ProxyTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringAop/target/classes/com/zhanglang/dao/IndexDao.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringAop/target/test-classes/com/zhanglang/test/ProxyTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/SpringAop/target/test-classes/com/zhanglang/test/ProxyTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringIoc/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/SpringIoc/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringIoc/src/main/java/com/zhanglang/ioc/SpringDaoImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/SpringIoc/src/main/java/com/zhanglang/ioc/SpringDaoImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringIoc/src/main/java/com/zhanglang/ioc/SpringTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/SpringIoc/src/main/java/com/zhanglang/ioc/SpringTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringIoc/src/main/java/com/zhanglang/service/IndexService.java" beforeDir="false" afterPath="$PROJECT_DIR$/SpringIoc/src/main/java/com/zhanglang/service/IndexService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringIoc/target/classes/com/zhanglang/ioc/SpringDaoImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/SpringIoc/target/classes/com/zhanglang/ioc/SpringDaoImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringIoc/target/classes/com/zhanglang/ioc/SpringTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/SpringIoc/target/classes/com/zhanglang/ioc/SpringTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringIoc/target/classes/com/zhanglang/service/IndexService.class" beforeDir="false" afterPath="$PROJECT_DIR$/SpringIoc/target/classes/com/zhanglang/service/IndexService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringLog/SpringLog.iml" beforeDir="false" afterPath="$PROJECT_DIR$/SpringLog/SpringLog.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringLog/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/SpringLog/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringLog/src/main/java/com/zhanglang/log4jdemo/Test01.java" beforeDir="false" afterPath="$PROJECT_DIR$/SpringLog/src/main/java/com/zhanglang/log4jdemo/Test01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringLog/src/main/resources/log4j.properties" beforeDir="false" afterPath="$PROJECT_DIR$/SpringLog/src/main/resources/log4j.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringLog/target/classes/com/zhanglang/log4jdemo/Test01.class" beforeDir="false" afterPath="$PROJECT_DIR$/SpringLog/target/classes/com/zhanglang/log4jdemo/Test01.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringLog/target/classes/log4j.properties" beforeDir="false" afterPath="$PROJECT_DIR$/SpringLog/target/classes/log4j.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ZlSpring/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ZlSpring/src/main/java/com/zhanglang/anno/Zhang.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ZlSpring/src/main/java/com/zhanglang/config/Appconfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ZlSpring/src/main/java/com/zhanglang/dao/MyUserDao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ZlSpring/src/main/java/com/zhanglang/dao/UserDao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ZlSpring/src/main/java/com/zhanglang/dao/UserDaoImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ZlSpring/src/main/java/com/zhanglang/dao/UserDaoImpl1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ZlSpring/src/main/java/com/zhanglang/handler/MyInvocationHandler.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ZlSpring/src/main/java/com/zhanglang/mianshi/BeanFactoryAndFactoryBean.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ZlSpring/src/main/java/com/zhanglang/mianshi/factorybean/DaoFactoryBean.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ZlSpring/src/main/java/com/zhanglang/monimybatis/MyFactoryBean.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ZlSpring/src/main/java/com/zhanglang/monimybatis/MyImportBeanDefinitionRegistrar.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ZlSpring/src/main/java/com/zhanglang/monimybatis/MyInvocationHandler.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ZlSpring/src/main/java/com/zhanglang/monimybatis/TestInject.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ZlSpring/src/main/java/com/zhanglang/monimybatis/ZhangScan.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ZlSpring/src/main/java/com/zhanglang/service/UserService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ZlSpring/src/main/java/com/zhanglang/service/UserServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ZlSpring/src/main/java/com/zhanglang/test/Test01.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ZlSpring/src/main/java/com/zhanglang/test/Test02.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ZlSpring/src/main/java/org/spring/util/AnnotationConfigApplicationContext.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ZlSpring/src/main/java/org/spring/util/BeanFactory.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ZlSpring/src/main/java/org/spring/util/ZlSpringException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ZlSpring/src/main/resources/application.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ZlSpring/src/main/resources/spring.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ZlSpring/target/classes/application.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ZlSpring/target/classes/com/zhanglang/anno/Zhang.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ZlSpring/target/classes/com/zhanglang/config/Appconfig.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ZlSpring/target/classes/com/zhanglang/dao/MyUserDao.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ZlSpring/target/classes/com/zhanglang/dao/UserDao.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ZlSpring/target/classes/com/zhanglang/dao/UserDaoImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ZlSpring/target/classes/com/zhanglang/dao/UserDaoImpl1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ZlSpring/target/classes/com/zhanglang/handler/MyInvocationHandler.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ZlSpring/target/classes/com/zhanglang/mianshi/BeanFactoryAndFactoryBean.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ZlSpring/target/classes/com/zhanglang/mianshi/factorybean/DaoFactoryBean.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ZlSpring/target/classes/com/zhanglang/monimybatis/MyFactoryBean.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ZlSpring/target/classes/com/zhanglang/monimybatis/MyImportBeanDefinitionRegistrar.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ZlSpring/target/classes/com/zhanglang/monimybatis/MyInvocationHandler.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ZlSpring/target/classes/com/zhanglang/monimybatis/TestInject.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ZlSpring/target/classes/com/zhanglang/monimybatis/ZhangScan.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ZlSpring/target/classes/com/zhanglang/service/UserService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ZlSpring/target/classes/com/zhanglang/service/UserServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ZlSpring/target/classes/com/zhanglang/test/Test01.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ZlSpring/target/classes/com/zhanglang/test/Test02.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ZlSpring/target/classes/org/spring/util/AnnotationConfigApplicationContext.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ZlSpring/target/classes/org/spring/util/BeanFactory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ZlSpring/target/classes/org/spring/util/ZlSpringException.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ZlSpring/target/classes/spring.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-=======
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SpringAop/SpringAop.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ZlSpring/ZlSpring.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ZlSpring/src/main/java/com/zhanglang/service/UserServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/ZlSpring/src/main/java/com/zhanglang/service/UserServiceImpl.java" afterDir="false" />
->>>>>>> f5aababe23c54b4b45780e9194516ca1c5623e74
     </list>
-    <ignored path="$PROJECT_DIR$/out/" />
-    <ignored path="$PROJECT_DIR$/target/" />
+    <ignored path="$PROJECT_DIR$/SpringLog/target/" />
     <ignored path="$PROJECT_DIR$/SpringIoc/target/" />
     <ignored path="$PROJECT_DIR$/SpringAop/target/" />
-    <ignored path="$PROJECT_DIR$/Proxy/target/" />
-    <ignored path="$PROJECT_DIR$/ProxyCustom/target/" />
     <ignored path="$PROJECT_DIR$/ZlSpring/target/" />
-    <ignored path="$PROJECT_DIR$/SpringLog/target/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <ignored path="$PROJECT_DIR$/ProxyCustom/target/" />
+    <ignored path="$PROJECT_DIR$/SpringMybatis/target/" />
+    <ignored path="$PROJECT_DIR$/SpringAsync/target/" />
+    <ignored path="$PROJECT_DIR$/AopYuanli/target/" />
+    <ignored path="$PROJECT_DIR$/ThreadLianjiechi/target/" />
+    <ignored path="$PROJECT_DIR$/HashMapAndConcurrentHashMap/target/" />
+    <ignored path="$PROJECT_DIR$/HashMapAndConcurrentHashMap18/target/" />
+    <ignored path="$PROJECT_DIR$/ProxyPractice/target/" />
+    <ignored path="$PROJECT_DIR$/mycustom-springboot-autoconfiguration/target/" />
+    <ignored path="$PROJECT_DIR$/mycustom-springboot-starter/target/" />
+    <ignored path="$PROJECT_DIR$/SpringSpi/target/" />
+    <ignored path="$PROJECT_DIR$/JavaSpiProvider/target/" />
+    <ignored path="$PROJECT_DIR$/SheJiMoshi/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,156 +103,121 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-<<<<<<< HEAD
-        <entry file="file://$PROJECT_DIR$/SpringLog/pom.xml">
+        <entry file="jar://$PROJECT_DIR$/../../maven/repository/org/springframework/spring-context/5.0.8.RELEASE/spring-context-5.0.8.RELEASE-sources.jar!/org/springframework/stereotype/Service.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="367">
-              <caret line="28" column="26" selection-start-line="28" selection-start-column="26" selection-end-line="28" selection-end-column="26" />
-=======
-        <entry file="file://$PROJECT_DIR$/ZlSpring/src/main/java/com/zhanglang/service/UserServiceImpl.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="303">
-              <caret line="17" column="40" selection-start-line="17" selection-start-column="40" selection-end-line="17" selection-end-column="40" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#369#370#0" expanded="true" />
-                <element signature="e#387#388#0" expanded="true" />
-              </folding>
->>>>>>> f5aababe23c54b4b45780e9194516ca1c5623e74
+            <state relative-caret-position="467">
+              <caret line="54" column="43" selection-start-line="54" selection-start-column="43" selection-end-line="54" selection-end-column="43" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-<<<<<<< HEAD
-        <entry file="file://$PROJECT_DIR$/SpringLog/src/main/java/com/zhanglang/log4jdemo/test.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="304">
-              <caret line="16" column="27" selection-start-line="16" selection-start-column="27" selection-end-line="16" selection-end-column="27" />
-              <folding>
-                <element signature="imports" expanded="true" />
-=======
-        <entry file="file://$PROJECT_DIR$/ZlSpring/src/main/java/org/spring/util/BeanFactory.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1216">
-              <caret line="78" column="40" selection-start-line="78" selection-start-column="31" selection-end-line="78" selection-end-column="40" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#655#656#0" expanded="true" />
-                <element signature="e#684#685#0" expanded="true" />
-                <element signature="e#5874#5875#0" expanded="true" />
-                <element signature="e#5914#5915#0" expanded="true" />
->>>>>>> f5aababe23c54b4b45780e9194516ca1c5623e74
-              </folding>
-            </state>
-          </provider>
+        <entry file="file://$PROJECT_DIR$/SheJiMoshi/pom.xml">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-<<<<<<< HEAD
-        <entry file="file://$PROJECT_DIR$/SpringLog/src/main/java/com/zhanglang/log4jdemo/Test01.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="15" column="27" selection-start-line="15" selection-start-column="27" selection-end-line="15" selection-end-column="27" />
-=======
-        <entry file="file://$PROJECT_DIR$/ZlSpring/src/main/java/com/zhanglang/mianshi/BeanFactoryAndFactoryBean.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="683">
-              <caret line="38" column="26" selection-start-line="38" selection-start-column="26" selection-end-line="38" selection-end-column="26" />
->>>>>>> f5aababe23c54b4b45780e9194516ca1c5623e74
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-<<<<<<< HEAD
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/SpringLog/target/classes/log4j.properties">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="228">
-              <caret line="12" column="57" selection-end-line="16" />
-=======
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/ZlSpring/src/main/java/org/spring/util/AnnotationConfigApplicationContext.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="208">
-              <caret line="14" column="23" selection-start-line="14" selection-start-column="19" selection-end-line="14" selection-end-column="23" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
->>>>>>> f5aababe23c54b4b45780e9194516ca1c5623e74
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-<<<<<<< HEAD
-        <entry file="jar://$PROJECT_DIR$/../../maven/repository/log4j/log4j/1.2.17/log4j-1.2.17.jar!/org/apache/log4j/Logger.class">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="209">
-              <caret line="16" column="25" selection-start-line="16" selection-start-column="25" selection-end-line="16" selection-end-column="25" />
-=======
-        <entry file="file://$PROJECT_DIR$/ZlSpring/src/main/java/com/zhanglang/test/Test02.java">
+        <entry file="file://$PROJECT_DIR$/SheJiMoshi/src/main/java/com/dywy/yuanze/DanyiZhize.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="133">
-              <caret line="7" column="46" selection-start-line="7" selection-start-column="46" selection-end-line="7" selection-end-column="46" />
->>>>>>> f5aababe23c54b4b45780e9194516ca1c5623e74
+              <caret line="7" column="24" selection-start-line="7" selection-start-column="24" selection-end-line="7" selection-end-column="24" />
             </state>
           </provider>
         </entry>
       </file>
-<<<<<<< HEAD
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/SpringLog/src/main/resources/log4j.properties">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="21" selection-start-column="21" selection-end-column="21" />
-=======
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ZlSpring/src/main/java/com/zhanglang/anno/Zhang.java">
+        <entry file="file://$PROJECT_DIR$/SheJiMoshi/src/main/java/com/dywy/yuanze/JiekouGeli.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="95">
-              <caret line="5" column="34" selection-start-line="5" selection-start-column="34" selection-end-line="5" selection-end-column="34" />
+            <state relative-caret-position="361">
+              <caret line="28" column="6" selection-start-line="28" selection-start-column="6" selection-end-line="28" selection-end-column="6" />
               <folding>
-                <element signature="imports" expanded="true" />
+                <element signature="e#457#458#0" expanded="true" />
+                <element signature="e#496#497#0" expanded="true" />
+                <element signature="e#536#537#0" expanded="true" />
+                <element signature="e#575#576#0" expanded="true" />
               </folding>
->>>>>>> f5aababe23c54b4b45780e9194516ca1c5623e74
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ZlSpring/src/main/java/com/zhanglang/monimybatis/ZhangScan.java">
+        <entry file="file://$PROJECT_DIR$/SheJiMoshi/src/main/java/com/dywy/yuanze/LishiTihuan.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="247">
+              <caret line="13" column="29" lean-forward="true" selection-start-line="13" selection-start-column="29" selection-end-line="13" selection-end-column="29" />
+              <folding>
+                <element signature="e#471#472#0" expanded="true" />
+                <element signature="e#516#517#0" expanded="true" />
+                <element signature="e#578#579#0" expanded="true" />
+                <element signature="e#631#632#0" expanded="true" />
+                <element signature="e#673#674#0" expanded="true" />
+                <element signature="e#720#721#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/SheJiMoshi/src/main/java/com/dywy/yuanze/YilaiDaozhi.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="171">
+              <caret line="21" column="60" selection-start-line="21" selection-start-column="60" selection-end-line="21" selection-end-column="60" />
+              <folding>
+                <element signature="e#732#733#0" expanded="true" />
+                <element signature="e#759#760#0" expanded="true" />
+                <element signature="e#516#517#0" expanded="true" />
+                <element signature="e#536#537#0" expanded="true" />
+                <element signature="e#501#502#0" expanded="true" />
+                <element signature="e#537#538#0" expanded="true" />
+                <element signature="e#600#601#0" expanded="true" />
+                <element signature="e#648#649#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/SheJiMoshi/src/main/java/com/dywy/yuanze/Kaibi.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="228">
-              <caret line="15" column="30" selection-start-line="15" selection-start-column="30" selection-end-line="15" selection-end-column="30" />
+              <caret line="12" column="28" selection-start-line="12" selection-start-column="28" selection-end-line="12" selection-end-column="28" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/SheJiMoshi/src/main/java/com/dywy/yuanze/Dimite.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="152">
+              <caret line="8" column="42" selection-start-line="8" selection-start-column="42" selection-end-line="8" selection-end-column="42" />
               <folding>
-                <element signature="imports" expanded="true" />
+                <element signature="e#752#753#0" expanded="true" />
+                <element signature="e#793#794#0" expanded="true" />
+                <element signature="e#561#562#0" expanded="true" />
+                <element signature="e#604#605#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-<<<<<<< HEAD
-        <entry file="file://$PROJECT_DIR$/ProxyCustom/src/main/java/com/zhanglang/handler/CoustomInvocationHandler.java">
-=======
-        <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-beans/5.1.5.RELEASE/spring-beans-5.1.5.RELEASE-sources.jar!/org/springframework/beans/factory/FactoryBean.java">
->>>>>>> f5aababe23c54b4b45780e9194516ca1c5623e74
+        <entry file="file://$PROJECT_DIR$/SheJiMoshi/src/main/java/com/dywy/moshi/Danli.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="76">
-              <caret line="4" column="17" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
+            <state relative-caret-position="1450">
+              <caret line="83" column="42" lean-forward="true" selection-start-line="83" selection-start-column="42" selection-end-line="83" selection-end-column="42" />
+              <folding>
+                <element signature="e#2090#2091#0" expanded="true" />
+                <element signature="e#2139#2140#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ProxyCustom/src/main/java/com/zhanglang/handler/ParamInvocationHandler.java">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/SheJiMoshi/src/main/java/com/dywy/jichu/Jichu.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="209">
-              <caret line="11" column="17" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="17" />
+            <state relative-caret-position="236">
+              <caret line="14" column="6" lean-forward="true" selection-start-line="14" selection-start-column="6" selection-end-line="14" selection-end-column="6" />
             </state>
           </provider>
         </entry>
@@ -209,40 +227,48 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Interface" />
-        <option value="spring-beans.schema" />
+        <option value="FxmlFile" />
         <option value="AnnotationType" />
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>isAnnotation</find>
-      <find>CoustomInvocationHandler h</find>
-      <find>CoustomInvocationHandler</find>
-      <find>LubanInvocationHandler jdk</find>
-      <find>dao</find>
-      <find>var3</find>
-      <find>invoke</find>
-      <find>intfs</find>
-      <find>h</find>
-      <find>ih</find>
-      <find>get(subKey)</find>
-      <find>subKeyFactory</find>
-      <find>get()</find>
-      <find>SubKeyFactory</find>
-      <find>synchronized</find>
-      <find>valueFactory</find>
-      <find>ProxyC</find>
-      <find>synchronized V get()</find>
-      <find>apply</find>
-      <find>clazz</find>
-      <find>BeanDefi</find>
-      <find>BeanDefinitionR</find>
+      <find>Enable</find>
+      <find>FactoryBean</find>
+      <find>Autowire</find>
+      <find>ALTERNATIVE_HASHING_THRESHOLD</find>
+      <find>initHashSeedAsNeeded</find>
+      <find>segment</find>
+      <find>UNSA</find>
+      <find>scanAndLockForPut</find>
+      <find>re</find>
+      <find>0.75</find>
+      <find>cglib</find>
+      <find>Enhancer</find>
+      <find>aspect</find>
+      <find>putA</find>
+      <find>ImportBeanDefinitionRegistrar</find>
+      <find>ZhangBeanDefinitionRegistrar</find>
+      <find>ZhangS</find>
+      <find>roundUpToPowerOf2</find>
+      <find>inflateTable</find>
+      <find>hashSeed</find>
+      <find>indexFor</find>
+      <find>put</find>
+      <find>mycustom-springboot-autoconfiguration</find>
+      <find>自定义starter</find>
+      <find>mycustom</find>
+      <find>mycustom-springboot</find>
+      <find>自定义</find>
+      <find>loadSpringFactories</find>
+      <find>loadFactoryNames</find>
+      <find>FACTORIES_RESOURCE_LOCATION</find>
     </findStrings>
     <replaceStrings>
-      <replace>CustomInvocationHandler</replace>
+      <replace />
     </replaceStrings>
   </component>
   <component name="Git.Settings">
@@ -251,115 +277,85 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-<<<<<<< HEAD
-=======
-        <option value="$PROJECT_DIR$/SpringAop/src/test/java/com/zhanglang/test/AnnoTest.java" />
-        <option value="$PROJECT_DIR$/SpringAop/src/main/java/com/zhanglang/anno/Entity.java" />
-        <option value="$PROJECT_DIR$/SpringAop/src/main/java/com/zhanglang/CommonUtil.java" />
-        <option value="$PROJECT_DIR$/SpringAop/pom.xml" />
-        <option value="$PROJECT_DIR$/SpringAop/src/main/java/com/zhanglang/aspect/ZhangAspect.java" />
-        <option value="$PROJECT_DIR$/SpringAop/src/main/java/com/zhanglang/dao/Dao.java" />
-        <option value="$PROJECT_DIR$/SpringAop/src/test/java/com/zhanglang/test/Test.java" />
-        <option value="$PROJECT_DIR$/SpringAop/src/main/java/com/zhanglang/dao/IndexDao.java" />
-        <option value="$PROJECT_DIR$/SpringAop/src/main/java/com/zhanglang/config/Appconfig.java" />
+        <option value="$PROJECT_DIR$/AopYuanli/src/main/java/com/zhanglang/aop02/ZhangAspect.java" />
         <option value="$PROJECT_DIR$/SpringAop/src/test/java/com/zhanglang/test/ProxyTest.java" />
-        <option value="$PROJECT_DIR$/SpringAop/src/test/java/com/zhanglang/test/IocTest.java" />
->>>>>>> f5aababe23c54b4b45780e9194516ca1c5623e74
-        <option value="$PROJECT_DIR$/Proxy/pom.xml" />
-        <option value="$PROJECT_DIR$/ProxyCustom/src/main/java/com/zhanglang/handler/CustomHandler.java" />
-        <option value="$PROJECT_DIR$/ProxyCustom/src/main/java/com/zhanglang/handler/MyCustomHandler.java" />
-        <option value="$PROJECT_DIR$/ProxyCustom/src/main/java/com/zhanglang/dao/handler/CustomInvocationHandler.java" />
-        <option value="$PROJECT_DIR$/ProxyCustom/src/test/java/com/zhanglang/test/ProxyTest01.java" />
-        <option value="$PROJECT_DIR$/ProxyCustom/src/main/java/com/zhanglang/dao/UserDao.java" />
-        <option value="$PROJECT_DIR$/ProxyCustom/src/test/java/com/zhanglang/test/ProxyTest02.java" />
-        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/SpringAop/src/main/java/com/zhanglang/config/Appconfig.java" />
+        <option value="$PROJECT_DIR$/SpringIoc/src/main/java/com/zhanglang/ioc/SpringTest.java" />
+        <option value="$PROJECT_DIR$/SpringIoc/src/main/java/com/zhanglang/service/IndexService.java" />
+        <option value="$PROJECT_DIR$/SpringIoc/src/main/java/com/zhanglang/ioc/SpringDaoImpl.java" />
+        <option value="$PROJECT_DIR$/ThreadLianjiechi/src/main/java/com/zhanglang/lianjiechi/Lianjiechi.java" />
+        <option value="$PROJECT_DIR$/ThreadLianjiechi/src/main/java/com/zhanglang/ThreadApplication.java" />
+        <option value="$PROJECT_DIR$/ThreadLianjiechi/src/main/java/com/zhanglang/xianchengchi/ThreadChi.java" />
+        <option value="$PROJECT_DIR$/HashMapAndConcurrentHashMap18/pom.xml" />
+        <option value="$PROJECT_DIR$/AopYuanli/pom.xml" />
+        <option value="$PROJECT_DIR$/HashMapAndConcurrentHashMap/pom.xml" />
         <option value="$PROJECT_DIR$/ProxyCustom/pom.xml" />
-        <option value="$PROJECT_DIR$/ProxyCustom/src/main/java/com/zhanglang/dao/UserDaoImpl.java" />
-        <option value="$PROJECT_DIR$/ProxyCustom/src/main/java/com/zhanglang/util/Test.java" />
-        <option value="$PROJECT_DIR$/ProxyCustom/src/main/java/com/zhanglang/proxy/ProxyUtil.java" />
-        <option value="$PROJECT_DIR$/ProxyCustom/src/main/java/com/zhanglang/handler/TestCustomHandler.java" />
-        <option value="$PROJECT_DIR$/ProxyCustom/src/main/java/com/zhanglang/handler/ZhangInvocationHandler.java" />
-        <option value="$PROJECT_DIR$/ProxyCustom/src/main/java/com/zhanglang/dao/LubanDao.java" />
-        <option value="$PROJECT_DIR$/ProxyCustom/src/main/java/com/zhanglang/handler/CoustomInvocationHandler.java" />
-        <option value="$PROJECT_DIR$/ProxyCustom/src/main/java/com/zhanglang/dao/ParamDao.java" />
-        <option value="$PROJECT_DIR$/ProxyCustom/src/main/java/com/zhanglang/dao/ParamDaoImpl.java" />
-        <option value="$PROJECT_DIR$/ProxyCustom/src/main/java/com/zhanglang/handler/ParamInvocationHandler.java" />
-        <option value="$PROJECT_DIR$/ProxyCustom/src/main/java/com/zhanglang/handler/MyParamInvocationHandler.java" />
-        <option value="$PROJECT_DIR$/ProxyCustom/src/main/java/com/zhanglang/test/Test.java" />
-        <option value="$PROJECT_DIR$/ProxyCustom/src/main/java/com/zhanglang/test/Test01.java" />
-        <option value="$PROJECT_DIR$/ProxyCustom/src/main/java/com/zhanglang/test/Test02.java" />
-        <option value="$PROJECT_DIR$/ProxyCustom/src/main/java/com/zhanglang/proxy/ProxyParamUtil.java" />
-        <option value="$PROJECT_DIR$/ZlSpring/src/main/java/com/zhanglang/service/UserService.java" />
-        <option value="$PROJECT_DIR$/ZlSpring/src/main/java/com/zhanglang/test/Test01.java" />
-        <option value="$PROJECT_DIR$/ZlSpring/src/main/java/org/spring/util/ZlSpringException.java" />
-        <option value="$PROJECT_DIR$/ZlSpring/src/main/java/org/spring/util/BeanFactory.java" />
-        <option value="$PROJECT_DIR$/ZlSpring/src/main/resources/spring.xml" />
-        <option value="$PROJECT_DIR$/ZlSpring/src/main/java/com/zhanglang/mianshi/factorybean/DaoFactoryBean.java" />
-        <option value="$PROJECT_DIR$/ZlSpring/src/main/java/com/zhanglang/mianshi/BeanFactoryAndFactoryBean.java" />
-        <option value="$PROJECT_DIR$/ZlSpring/src/main/java/com/zhanglang/test/Test02.java" />
-<<<<<<< HEAD
-        <option value="$PROJECT_DIR$/ZlSpring/src/main/java/com/zhanglang/monimybatis/MyImportBeanDefinitionRegister.java" />
-        <option value="$PROJECT_DIR$/ZlSpring/src/main/java/com/zhanglang/monimybatis/TestInject.java" />
-        <option value="$PROJECT_DIR$/ZlSpring/src/main/java/com/zhanglang/monimybatis/MyImportBeanDefinitionRegistrar.java" />
-        <option value="$PROJECT_DIR$/ZlSpring/src/main/java/com/zhanglang/monimybatis/ZhangScan.java" />
-        <option value="$PROJECT_DIR$/ZlSpring/src/main/java/com/zhanglang/config/Appconfig.java" />
-        <option value="$PROJECT_DIR$/ZlSpring/src/main/java/com/zhanglang/monimybatis/MyInvocationHandler.java" />
-        <option value="$PROJECT_DIR$/ZlSpring/src/main/java/com/zhanglang/dao/MyUserDao.java" />
-        <option value="$PROJECT_DIR$/ZlSpring/src/main/java/com/zhanglang/dao/UserDaoImpl.java" />
-        <option value="$PROJECT_DIR$/ZlSpring/src/main/java/com/zhanglang/dao/UserDaoImpl1.java" />
-        <option value="$PROJECT_DIR$/ZlSpring/pom.xml" />
-        <option value="$PROJECT_DIR$/ZlSpring/src/main/resources/application.yml" />
-        <option value="$PROJECT_DIR$/ZlSpring/src/main/java/com/zhanglang/dao/UserDao.java" />
-        <option value="$PROJECT_DIR$/ZlSpring/src/main/java/com/zhanglang/monimybatis/MyFactoryBean.java" />
-        <option value="$PROJECT_DIR$/SpringLog/target/classes/log4j.properties" />
-        <option value="$PROJECT_DIR$/SpringLog/src/main/java/com/zhanglang/log4jdemo/Test01.java" />
-        <option value="$PROJECT_DIR$/SpringLog/src/main/java/com/zhanglang/log4jdemo/test.java" />
+        <option value="$PROJECT_DIR$/ProxyPractice/pom.xml" />
+        <option value="$PROJECT_DIR$/SpringAop/pom.xml" />
+        <option value="$PROJECT_DIR$/SpringAsync/pom.xml" />
+        <option value="$PROJECT_DIR$/SpringIoc/pom.xml" />
         <option value="$PROJECT_DIR$/SpringLog/pom.xml" />
-        <option value="$PROJECT_DIR$/SpringLog/src/main/resources/log4j.properties" />
-=======
-        <option value="$PROJECT_DIR$/ZlSpring/src/main/java/com/zhanglang/anno/Zhang.java" />
-        <option value="$PROJECT_DIR$/ZlSpring/src/main/java/com/zhanglang/service/UserServiceImpl.java" />
-        <option value="$PROJECT_DIR$/ZlSpring/src/main/java/org/spring/util/AnnotationConfigApplicationContext.java" />
->>>>>>> f5aababe23c54b4b45780e9194516ca1c5623e74
+        <option value="$PROJECT_DIR$/SpringMybatis/pom.xml" />
+        <option value="$PROJECT_DIR$/ThreadLianjiechi/pom.xml" />
+        <option value="$PROJECT_DIR$/ZlSpring/pom.xml" />
+        <option value="$PROJECT_DIR$/mycustom-springboot-starter/pom.xml" />
+        <option value="$PROJECT_DIR$/mycustom-springboot-autoconfiguration/src/main/java/com/mycustom/MongoDBConnection.java" />
+        <option value="$PROJECT_DIR$/mycustom-springboot-autoconfiguration/pom.xml" />
+        <option value="$PROJECT_DIR$/mycustom-springboot-autoconfiguration/src/main/java/com/mycustom/MongoDBProperties.java" />
+        <option value="$PROJECT_DIR$/mycustom-springboot-autoconfiguration/src/main/java/com/mycustom/MongoDBConfiguration.java" />
+        <option value="$PROJECT_DIR$/HashMapAndConcurrentHashMap18/src/main/java/com/dywy/Test01.java" />
+        <option value="$PROJECT_DIR$/HashMapAndConcurrentHashMap/src/main/java/com/dywy/Test01.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/SpringSpi/src/main/java/com/zhanglang/SpringSpiApplication.java" />
+        <option value="$PROJECT_DIR$/SpringSpi/pom.xml" />
+        <option value="$PROJECT_DIR$/mycustom-springboot-autoconfiguration/src/main/java/com/mycustom/spi/Animal.java" />
+        <option value="$PROJECT_DIR$/mycustom-springboot-autoconfiguration/src/main/java/com/mycustom/spi/Dog.java" />
+        <option value="$PROJECT_DIR$/mycustom-springboot-autoconfiguration/src/main/java/com/mycustom/spi/Cat.java" />
+        <option value="$PROJECT_DIR$/SpringSpi/src/main/java/com/zhanglang/action/JavaSpiAction.java" />
+        <option value="$PROJECT_DIR$/mycustom-springboot-autoconfiguration/src/main/resources/META-INF/spring.factories" />
+        <option value="$PROJECT_DIR$/mycustom-springboot-autoconfiguration/src/main/resources/META-INF/services/com.mycustom.spi.Animal" />
+        <option value="$PROJECT_DIR$/SpringSpi/src/main/resources/MET-INF/services/com.mycustom.spi.Animal" />
+        <option value="$PROJECT_DIR$/SpringSpi/src/main/resources/META-INF/services/com.mycustom.spi.Animal" />
+        <option value="$PROJECT_DIR$/SpringSpi/src/main/java/com/zhanglang/action/SpringSpiAction.java" />
+        <option value="$PROJECT_DIR$/SpringSpi/src/main/java/com/zhanglang/service/Tiger.java" />
+        <option value="$PROJECT_DIR$/SheJiMoshi/src/main/java/com/dywy/yuanze/DanyiZhize.java" />
+        <option value="$PROJECT_DIR$/SheJiMoshi/src/main/java/com/dywy/yuanze/JiekouGeli.java" />
+        <option value="$PROJECT_DIR$/SheJiMoshi/src/main/java/com/dywy/yuanze/LishiTihuan.java" />
+        <option value="$PROJECT_DIR$/SheJiMoshi/src/main/java/com/dywy/yuanze/YilaiDaozhi.java" />
+        <option value="$PROJECT_DIR$/SheJiMoshi/src/main/java/com/dywy/yuanze/Kaibi.java" />
+        <option value="$PROJECT_DIR$/SheJiMoshi/src/main/java/com/dywy/yuanze/Dimite.java" />
+        <option value="$PROJECT_DIR$/SheJiMoshi/src/main/java/com/dywy/moshi/Danli.java" />
+        <option value="$PROJECT_DIR$/SheJiMoshi/src/main/java/com/dywy/jichu.java" />
+        <option value="$PROJECT_DIR$/SheJiMoshi/src/main/java/com/dywy/jichu/jichu.java" />
+        <option value="$PROJECT_DIR$/SheJiMoshi/src/main/java/com/dywy/jichu/Jichu.java" />
       </list>
     </option>
   </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
-        <option name="localRepository" value="D:\java\maven\repository" />
         <option name="mavenHome" value="$APPLICATION_HOME_DIR$/plugins/maven/lib/maven3" />
         <option name="userSettingsFile" value="D:\java\maven\apache-maven-3.5.0-bin\apache-maven-3.5.0\conf\settings.xml" />
       </MavenGeneralSettings>
     </option>
   </component>
-<<<<<<< HEAD
   <component name="MavenProjectNavigator">
     <treeState>
       <expand>
         <path>
           <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="SpringLog" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="mycustom-spring-boot-starter" type="9519ce18:MavenProjectsStructure$ProjectNode" />
         </path>
         <path>
           <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="SpringLog" type="9519ce18:MavenProjectsStructure$ProjectNode" />
-          <item name="Dependencies" type="f4be9f2a:MavenProjectsStructure$DependenciesNode" />
-        </path>
-        <path>
-          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="SpringLog" type="9519ce18:MavenProjectsStructure$ProjectNode" />
-          <item name="Dependencies" type="f4be9f2a:MavenProjectsStructure$DependenciesNode" />
-          <item name="org.springframework:spring-context:5.1.5.RELEASE" type="c0821a7e:MavenProjectsStructure$DependencyNode" />
+          <item name="mycustom-spring-boot-starter" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
         </path>
       </expand>
       <select />
     </treeState>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-=======
-  <component name="ProjectFrameBounds" extendedState="7">
->>>>>>> f5aababe23c54b4b45780e9194516ca1c5623e74
     <option name="x" value="-10" />
     <option name="y" value="-10" />
     <option name="width" value="1350" />
@@ -373,164 +369,39 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-<<<<<<< HEAD
-=======
       <pane id="Scope" />
-      <pane id="PackagesPane" />
->>>>>>> f5aababe23c54b4b45780e9194516ca1c5623e74
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="spring-zl" type="b2602c69:ProjectViewProjectNode" />
-              <item name="spring-zl" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-<<<<<<< HEAD
               <item name="Spring-zl" type="b2602c69:ProjectViewProjectNode" />
               <item name="Spring-zl" type="462c0819:PsiDirectoryNode" />
-              <item name="SpringLog" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Spring-zl" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Spring-zl" type="462c0819:PsiDirectoryNode" />
-              <item name="SpringLog" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Spring-zl" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Spring-zl" type="462c0819:PsiDirectoryNode" />
-              <item name="SpringLog" type="462c0819:PsiDirectoryNode" />
-=======
-              <item name="spring-zl" type="b2602c69:ProjectViewProjectNode" />
-              <item name="spring-zl" type="462c0819:PsiDirectoryNode" />
-              <item name="ZlSpring" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="spring-zl" type="b2602c69:ProjectViewProjectNode" />
-              <item name="spring-zl" type="462c0819:PsiDirectoryNode" />
-              <item name="ZlSpring" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="spring-zl" type="b2602c69:ProjectViewProjectNode" />
-              <item name="spring-zl" type="462c0819:PsiDirectoryNode" />
-              <item name="ZlSpring" type="462c0819:PsiDirectoryNode" />
->>>>>>> f5aababe23c54b4b45780e9194516ca1c5623e74
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-<<<<<<< HEAD
-              <item name="Spring-zl" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Spring-zl" type="462c0819:PsiDirectoryNode" />
-              <item name="SpringLog" type="462c0819:PsiDirectoryNode" />
-=======
-              <item name="spring-zl" type="b2602c69:ProjectViewProjectNode" />
-              <item name="spring-zl" type="462c0819:PsiDirectoryNode" />
-              <item name="ZlSpring" type="462c0819:PsiDirectoryNode" />
->>>>>>> f5aababe23c54b4b45780e9194516ca1c5623e74
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-<<<<<<< HEAD
-              <item name="Spring-zl" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Spring-zl" type="462c0819:PsiDirectoryNode" />
-              <item name="SpringLog" type="462c0819:PsiDirectoryNode" />
-=======
-              <item name="spring-zl" type="b2602c69:ProjectViewProjectNode" />
-              <item name="spring-zl" type="462c0819:PsiDirectoryNode" />
-              <item name="ZlSpring" type="462c0819:PsiDirectoryNode" />
->>>>>>> f5aababe23c54b4b45780e9194516ca1c5623e74
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="log4jdemo" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-<<<<<<< HEAD
-              <item name="Spring-zl" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Spring-zl" type="462c0819:PsiDirectoryNode" />
-              <item name="SpringLog" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Spring-zl" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Spring-zl" type="462c0819:PsiDirectoryNode" />
-              <item name="SpringLog" type="462c0819:PsiDirectoryNode" />
-              <item name="target" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Spring-zl" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Spring-zl" type="462c0819:PsiDirectoryNode" />
-              <item name="SpringLog" type="462c0819:PsiDirectoryNode" />
-=======
-              <item name="spring-zl" type="b2602c69:ProjectViewProjectNode" />
-              <item name="spring-zl" type="462c0819:PsiDirectoryNode" />
-              <item name="ZlSpring" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="zhanglang" type="462c0819:PsiDirectoryNode" />
-              <item name="service" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="spring-zl" type="b2602c69:ProjectViewProjectNode" />
-              <item name="spring-zl" type="462c0819:PsiDirectoryNode" />
-              <item name="ZlSpring" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="zhanglang" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="spring-zl" type="b2602c69:ProjectViewProjectNode" />
-              <item name="spring-zl" type="462c0819:PsiDirectoryNode" />
-              <item name="ZlSpring" type="462c0819:PsiDirectoryNode" />
-              <item name="target" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="spring-zl" type="b2602c69:ProjectViewProjectNode" />
-              <item name="spring-zl" type="462c0819:PsiDirectoryNode" />
-              <item name="ZlSpring" type="462c0819:PsiDirectoryNode" />
->>>>>>> f5aababe23c54b4b45780e9194516ca1c5623e74
-              <item name="target" type="462c0819:PsiDirectoryNode" />
-              <item name="classes" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
       <pane id="PackagesPane" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="jdk.selected.JAVA_MODULE" value="1.8" />
-<<<<<<< HEAD
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/SpringLog/src/main/resources" />
-=======
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
->>>>>>> f5aababe23c54b4b45780e9194516ca1c5623e74
-    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
-    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/SpringMybatis/src/main/resources" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\java\spring\Spring-zl\SpringLog\src\main\resources" />
-      <recent name="D:\java\spring\Spring-zl\ProxyCustom\src\main\java\com\zhanglang\test" />
-      <recent name="D:\java\spring\Spring-zl\ProxyCustom\src\main\java\com\zhanglang\util" />
-      <recent name="D:\java\spring\Spring-zl\ProxyCustom\src\main\java\com\zhanglang\handler" />
-      <recent name="D:\java\spring\Spring-zl\ProxyCustom\src\main\java\com\zhanglang\proxy" />
+      <recent name="D:\java\spring\Spring-zl\SpringMybatis\src\main\resources" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -545,17 +416,13 @@
       </list>
     </option>
   </component>
-<<<<<<< HEAD
-  <component name="RunManager" selected="Application.Test01 (2)">
-=======
-  <component name="RunManager" selected="Application.Test02 (1)">
->>>>>>> f5aababe23c54b4b45780e9194516ca1c5623e74
-    <configuration name="BeanFactoryAndFactoryBean" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.zhanglang.mianshi.BeanFactoryAndFactoryBean" />
-      <module name="ZlSpring" />
+  <component name="RunManager" selected="Application.Danli">
+    <configuration name="Danli" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.dywy.moshi.Danli" />
+      <module name="SheJiMoshi" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.zhanglang.mianshi.*" />
+          <option name="PATTERN" value="com.dywy.moshi.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -563,12 +430,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test01 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.zhanglang.test.Test01" />
-      <module name="ZlSpring" />
+    <configuration name="LishiTihuan" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.dywy.yuanze.LishiTihuan" />
+      <module name="SheJiMoshi" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.zhanglang.test.*" />
+          <option name="PATTERN" value="com.dywy.yuanze.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -576,18 +443,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-<<<<<<< HEAD
-    <configuration name="Test01 (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.zhanglang.log4jdemo.Test01" />
-      <module name="SpringLog" />
-=======
     <configuration name="Test01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.zhanglang.test.Test01" />
-      <module name="ProxyCustom" />
->>>>>>> f5aababe23c54b4b45780e9194516ca1c5623e74
+      <option name="MAIN_CLASS_NAME" value="com.dywy.Test01" />
+      <module name="HashMapAndConcurrentHashMap" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.zhanglang.log4jdemo.*" />
+          <option name="PATTERN" value="com.dywy.jichu.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -595,17 +456,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-<<<<<<< HEAD
-    <configuration name="TestInject" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.zhanglang.monimybatis.TestInject" />
-=======
-    <configuration name="Test02 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.zhanglang.test.Test02" />
->>>>>>> f5aababe23c54b4b45780e9194516ca1c5623e74
-      <module name="ZlSpring" />
+    <configuration name="Test01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.dywy.Test01" />
+      <module name="HashMapAndConcurrentHashMap18" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.zhanglang.monimybatis.*" />
+          <option name="PATTERN" value="com.dywy.jichu.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -613,34 +469,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.zhanglang.log4jdemo.test" />
-      <module name="SpringLog" />
+    <configuration name="SpringSpiApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="SpringSpi" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.zhanglang.log4jdemo.*" />
+          <option name="PATTERN" value="com.zhanglang.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.zhanglang.SpringSpiApplication" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-<<<<<<< HEAD
-        <item itemvalue="Application.Test01 (2)" />
-        <item itemvalue="Application.test" />
-        <item itemvalue="Application.TestInject" />
-        <item itemvalue="Application.BeanFactoryAndFactoryBean" />
-        <item itemvalue="Application.Test01 (1)" />
-=======
-        <item itemvalue="Application.Test02 (1)" />
-        <item itemvalue="Application.BeanFactoryAndFactoryBean" />
-        <item itemvalue="Application.Test01 (1)" />
+        <item itemvalue="Application.Danli" />
+        <item itemvalue="Application.LishiTihuan" />
+        <item itemvalue="Spring Boot.SpringSpiApplication" />
         <item itemvalue="Application.Test01" />
-        <item itemvalue="Application.Test02" />
->>>>>>> f5aababe23c54b4b45780e9194516ca1c5623e74
+        <item itemvalue="Application.Test01 (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -650,81 +498,74 @@
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="e47b69be-4c2e-4eaa-b6e9-61412622b69a" name="Default Changelist" comment="" />
-      <created>1584351323175</created>
+      <created>1585616145923</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1584351323175</updated>
-      <workItem from="1584351326677" duration="852000" />
-      <workItem from="1584408666294" duration="6733000" />
-      <workItem from="1584492674236" duration="3043000" />
-      <workItem from="1584580142265" duration="12023000" />
-      <workItem from="1584667482434" duration="19811000" />
-      <workItem from="1584880330329" duration="4600000" />
-      <workItem from="1584924301436" duration="18120000" />
-      <workItem from="1584951931456" duration="592000" />
-      <workItem from="1584952623956" duration="1474000" />
-<<<<<<< HEAD
-      <workItem from="1584955856573" duration="598000" />
-      <workItem from="1584956931060" duration="8000" />
-      <workItem from="1585010634984" duration="721000" />
-      <workItem from="1585187770689" duration="10503000" />
-      <workItem from="1585279229965" duration="2745000" />
-      <workItem from="1585362239256" duration="1836000" />
-      <workItem from="1585448362181" duration="132000" />
-      <workItem from="1585475749115" duration="3689000" />
-      <workItem from="1585529597797" duration="1377000" />
-=======
-      <workItem from="1584955856573" duration="320000" />
-      <workItem from="1584966386031" duration="2097000" />
->>>>>>> f5aababe23c54b4b45780e9194516ca1c5623e74
+      <updated>1585616145923</updated>
+      <workItem from="1585616148219" duration="19038000" />
+      <workItem from="1585701943041" duration="11894000" />
+      <workItem from="1585788567267" duration="6104000" />
+      <workItem from="1585874308003" duration="6856000" />
+      <workItem from="1586249764943" duration="2470000" />
+      <workItem from="1586307074260" duration="1408000" />
+      <workItem from="1586331124753" duration="790000" />
+      <workItem from="1586855744155" duration="2032000" />
+      <workItem from="1586912113747" duration="596000" />
+      <workItem from="1586917489319" duration="1808000" />
+      <workItem from="1587084742957" duration="1201000" />
+      <workItem from="1588386771560" duration="5402000" />
+      <workItem from="1588402377566" duration="4840000" />
+      <workItem from="1588726855864" duration="56000" />
+      <workItem from="1589765901612" duration="3929000" />
+      <workItem from="1589853393876" duration="2542000" />
+      <workItem from="1589935477977" duration="3877000" />
+      <workItem from="1590022137828" duration="2209000" />
+      <workItem from="1590112206698" duration="391000" />
+      <workItem from="1590370792005" duration="1997000" />
+      <workItem from="1591587683849" duration="1853000" />
+      <workItem from="1591779846144" duration="3278000" />
+      <workItem from="1591836633404" duration="3795000" />
+      <workItem from="1593675971133" duration="5007000" />
+      <workItem from="1594600877224" duration="2033000" />
+      <workItem from="1594688132230" duration="600000" />
+      <workItem from="1595984034042" duration="1374000" />
+      <workItem from="1597214525995" duration="4949000" />
+      <workItem from="1597285493871" duration="721000" />
+      <workItem from="1597366992497" duration="1325000" />
+      <workItem from="1597884350555" duration="3068000" />
+      <workItem from="1599789370051" duration="9603000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-<<<<<<< HEAD
-    <option name="totallyTimeSpent" value="88857000" />
-=======
-    <option name="totallyTimeSpent" value="69665000" />
->>>>>>> f5aababe23c54b4b45780e9194516ca1c5623e74
+    <option name="totallyTimeSpent" value="127231000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
-    <editor active="true" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <layout>
-<<<<<<< HEAD
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21514745" />
-=======
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.195629" />
->>>>>>> f5aababe23c54b4b45780e9194516ca1c5623e74
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25536194" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
       <window_info id="UI Designer" order="4" />
       <window_info id="Capture Tool" order="5" />
       <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info id="Web" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.32956153" />
-<<<<<<< HEAD
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3286119" />
       <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.3286119" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.46033993" />
-=======
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3286334" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.46110326" />
->>>>>>> f5aababe23c54b4b45780e9194516ca1c5623e74
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3654391" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="8" />
-      <window_info anchor="bottom" id="Spring" order="9" />
+      <window_info anchor="bottom" id="Version Control" order="8" weight="0.3286119" />
+      <window_info anchor="bottom" id="Spring" order="9" weight="0.3286119" />
       <window_info anchor="bottom" id="Database Changes" order="10" />
-      <window_info anchor="bottom" id="Terminal" order="11" />
-      <window_info anchor="bottom" id="Event Log" order="12" side_tool="true" />
-<<<<<<< HEAD
-      <window_info anchor="bottom" id="Messages" order="13" weight="0.3286119" />
-=======
-      <window_info anchor="bottom" id="Messages" order="13" weight="0.3286334" />
->>>>>>> f5aababe23c54b4b45780e9194516ca1c5623e74
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.3286119" />
+      <window_info anchor="bottom" id="Terminal" order="13" weight="0.3286119" />
+      <window_info anchor="bottom" id="Java Enterprise" order="14" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -734,6 +575,7 @@
       <window_info anchor="right" id="Capture Analysis" order="6" />
       <window_info anchor="right" id="Palette&#9;" order="7" />
       <window_info anchor="right" id="Database" order="8" />
+      <window_info anchor="right" id="Bean Validation" order="9" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -742,253 +584,301 @@
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/ProxyCustom/src/main/java/com/zhanglang/proxy/ProxyParamUtil.java</url>
-          <line>72</line>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/SpringMybatis/src/main/java/com/zhanglang/practice/UserService.java</url>
+          <line>22</line>
           <properties />
-          <option name="timeStamp" value="2" />
+          <option name="timeStamp" value="42" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/AopYuanli/src/main/java/com/zhanglang/practice/IndexService.java</url>
+          <line>21</line>
+          <properties />
+          <option name="timeStamp" value="43" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/SpringAop/src/test/java/com/zhanglang/test/ProxyTest.java</url>
+          <line>27</line>
+          <properties />
+          <option name="timeStamp" value="44" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <condition expression="beanName.equals(&quot;indexDaoB&quot;)" language="JAVA" />
+          <url>jar://$PROJECT_DIR$/../../maven/repository/org/springframework/spring-beans/5.1.5.RELEASE/spring-beans-5.1.5.RELEASE-sources.jar!/org/springframework/beans/factory/support/AbstractAutowireCapableBeanFactory.java</url>
+          <line>592</line>
+          <properties />
+          <option name="timeStamp" value="46" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>jar://$PROJECT_DIR$/../../jdk1.7.0_79/jdk1.7.0_79/src.zip!/java/util/HashMap.java</url>
+          <line>487</line>
+          <properties />
+          <option name="timeStamp" value="51" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>jar://$PROJECT_DIR$/../../jdk1.7.0_79/jdk1.7.0_79/src.zip!/java/util/HashMap.java</url>
+          <line>315</line>
+          <properties />
+          <option name="timeStamp" value="52" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/ZlSpring/src/main/java/com/zhanglang/monimybatis/TestInject.java</url>
-          <line>17</line>
+          <url>file://$PROJECT_DIR$/HashMapAndConcurrentHashMap/src/main/java/com/dywy/Test01.java</url>
+          <line>20</line>
           <properties />
-          <option name="timeStamp" value="4" />
+          <option name="timeStamp" value="54" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/SpringSpi/src/main/java/com/zhanglang/action/SpringSpiAction.java</url>
+          <line>28</line>
+          <properties />
+          <option name="timeStamp" value="55" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="breakpointCondition">
+      <expression>
+        <expression-string>beanName.equals(&quot;indexDaoB&quot;)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
   <component name="editorHistoryManager">
-<<<<<<< HEAD
-    <entry file="file://$PROJECT_DIR$/ProxyCustom/src/main/java/com/zhanglang/dao/ParamDaoImpl.java">
+    <entry file="file://$PROJECT_DIR$/SpringAop/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" column="39" selection-start-line="7" selection-start-column="39" selection-end-line="7" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SpringAsync/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" column="39" selection-start-line="7" selection-start-column="39" selection-end-line="7" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SpringIoc/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" column="39" selection-start-line="7" selection-start-column="39" selection-end-line="7" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SpringLog/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" column="39" selection-start-line="7" selection-start-column="39" selection-end-line="7" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ThreadLianjiechi/pom.xml" />
+    <entry file="file://$PROJECT_DIR$/ZlSpring/pom.xml" />
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_212/src.zip!/java/util/HashMap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="283">
+          <caret line="409" column="70" selection-start-line="409" selection-start-column="70" selection-end-line="409" selection-end-column="70" />
+          <folding>
+            <element signature="e#19327#19328#0" expanded="true" />
+            <element signature="e#19410#19411#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HashMapAndConcurrentHashMap18/src/main/java/com/dywy/Test01.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="16" column="49" selection-start-line="16" selection-start-column="49" selection-end-line="16" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../../jdk1.7.0_79/jdk1.7.0_79/src.zip!/java/util/HashMap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="8626">
+          <caret line="487" selection-start-line="487" selection-end-line="487" />
+          <folding>
+            <element signature="e#10650#10651#0" expanded="true" />
+            <element signature="e#10717#10718#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HashMapAndConcurrentHashMap/src/main/java/com/dywy/Test01.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="247">
-          <caret line="13" column="52" selection-start-line="13" selection-start-column="52" selection-end-line="13" selection-end-column="52" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_212/src.zip!/java/lang/Class.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38703">
-          <caret line="2124" column="18" selection-start-line="2124" selection-start-column="18" selection-end-line="2124" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_212/jre/lib/rt.jar!/sun/misc/ProxyGenerator.class">
-=======
-    <entry file="file://$PROJECT_DIR$/ProxyCustom/src/main/java/com/zhanglang/dao/LubanDaoImpl.java">
->>>>>>> f5aababe23c54b4b45780e9194516ca1c5623e74
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1558">
-          <caret line="107" column="78" selection-start-line="107" selection-start-column="74" selection-end-line="107" selection-end-column="78" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ProxyCustom/src/main/java/com/zhanglang/proxy/ProxyParamUtil.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1083">
-          <caret line="66" column="37" selection-start-line="66" selection-start-column="18" selection-end-line="66" selection-end-column="37" />
+          <caret line="14" column="44" selection-start-line="14" selection-start-column="44" selection-end-line="14" selection-end-column="44" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-<<<<<<< HEAD
-    <entry file="file://$PROJECT_DIR$/ZlSpring/src/main/java/com/zhanglang/service/UserService.java">
+    <entry file="jar://$PROJECT_DIR$/../../jdk1.7.0_79/jdk1.7.0_79/src.zip!/java/util/Map.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="10" column="23" selection-start-line="10" selection-start-column="23" selection-end-line="10" selection-end-column="23" />
+        <state relative-caret-position="3876">
+          <caret line="227" column="6" selection-start-line="227" selection-start-column="6" selection-end-line="227" selection-end-column="6" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_212/src.zip!/java/lang/reflect/WeakCache.java">
-=======
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_212/src.zip!/java/lang/reflect/TypeVariable.java" />
-    <entry file="file://$PROJECT_DIR$/ProxyCustom/src/main/java/com/zhanglang/handler/CoustomInvocationHandler.java">
->>>>>>> f5aababe23c54b4b45780e9194516ca1c5623e74
+    <entry file="file://$PROJECT_DIR$/mycustom-springboot-autoconfiguration/src/main/java/com/mycustom/MongoDBProperties.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3781">
-          <caret line="228" column="17" selection-start-line="228" selection-start-column="17" selection-end-line="228" selection-end-column="17" />
+        <state relative-caret-position="266">
+          <caret line="14" column="22" selection-start-line="14" selection-start-column="22" selection-end-line="14" selection-end-column="22" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ZlSpring/src/main/java/org/spring/util/ZlSpringException.java">
+    <entry file="file://$PROJECT_DIR$/mycustom-springboot-starter/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="228">
-          <caret line="12" column="17" selection-start-line="12" selection-start-column="17" selection-end-line="12" selection-end-column="17" />
-          <folding>
-            <element signature="e#271#272#0" expanded="true" />
-            <element signature="e#294#295#0" expanded="true" />
-          </folding>
+          <caret line="12" column="16" selection-start-line="12" selection-start-column="16" selection-end-line="12" selection-end-column="16" />
         </state>
       </provider>
     </entry>
-<<<<<<< HEAD
-    <entry file="file://$PROJECT_DIR$/ZlSpring/ZlSpring.iml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ZlSpring/src/main/java/com/zhanglang/service/UserServiceImpl.java">
+    <entry file="file://$PROJECT_DIR$/mycustom-springboot-autoconfiguration/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="380">
-          <caret line="20" selection-start-line="20" selection-end-line="20" />
+        <state relative-caret-position="228">
+          <caret line="12" column="35" selection-start-line="12" selection-start-column="16" selection-end-line="12" selection-end-column="35" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ZlSpring/src/main/java/com/zhanglang/test/Test01.java">
-=======
-    <entry file="file://$PROJECT_DIR$/ProxyCustom/src/main/java/com/zhanglang/dao/ParamDao.java">
+    <entry file="file://$PROJECT_DIR$/SpringMybatis/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="6" column="32" lean-forward="true" selection-start-line="6" selection-start-column="32" selection-end-line="6" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_212/src.zip!/java/lang/reflect/InvocationHandler.java" />
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_212/jre/lib/rt.jar!/sun/reflect/annotation/AnnotationInvocationHandler.class" />
-    <entry file="file://$PROJECT_DIR$/ProxyCustom/src/main/java/com/zhanglang/handler/ParamInvocationHandler.java">
->>>>>>> f5aababe23c54b4b45780e9194516ca1c5623e74
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="247">
-          <caret line="15" column="64" selection-start-line="15" selection-start-column="64" selection-end-line="15" selection-end-column="64" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-<<<<<<< HEAD
-    <entry file="file://$PROJECT_DIR$/ZlSpring/src/main/resources/spring.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="15" column="46" selection-start-line="15" selection-start-column="46" selection-end-line="15" selection-end-column="46" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ZlSpring/src/main/java/org/spring/util/BeanFactory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1216">
-          <caret line="78" column="40" selection-start-line="78" selection-start-column="31" selection-end-line="78" selection-end-column="40" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#655#656#0" expanded="true" />
-            <element signature="e#684#685#0" expanded="true" />
-            <element signature="e#5874#5875#0" expanded="true" />
-            <element signature="e#5914#5915#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ZlSpring/src/main/java/com/zhanglang/mianshi/factorybean/DaoFactoryBean.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
-          <caret line="12" column="46" selection-start-line="12" selection-start-column="46" selection-end-line="12" selection-end-column="46" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$PROJECT_DIR$/../../maven/repository/org/springframework/spring-beans/5.1.5.RELEASE/spring-beans-5.1.5.RELEASE-sources.jar!/org/springframework/beans/factory/FactoryBean.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="836">
-          <caret line="58" column="17" selection-start-line="58" selection-start-column="17" selection-end-line="58" selection-end-column="17" />
+        <state relative-caret-position="390">
+          <caret line="35" column="21" selection-start-line="35" selection-start-column="21" selection-end-line="35" selection-end-column="21" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="15" column="30" selection-start-line="15" selection-start-column="30" selection-end-line="15" selection-end-column="30" />
+        <state relative-caret-position="218">
+          <caret line="19" column="16" selection-start-line="19" selection-start-column="16" selection-end-line="19" selection-end-column="16" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ZlSpring/src/main/java/com/zhanglang/mianshi/BeanFactoryAndFactoryBean.java">
+    <entry file="file://$PROJECT_DIR$/mycustom-springboot-autoconfiguration/src/main/java/com/mycustom/MongoDBConnection.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="467">
-          <caret line="38" column="26" selection-start-line="38" selection-start-column="26" selection-end-line="38" selection-end-column="26" />
+        <state relative-caret-position="149">
+          <caret line="20" column="18" selection-start-line="20" selection-start-column="18" selection-end-line="20" selection-end-column="18" />
+          <folding>
+            <element signature="e#368#369#0" expanded="true" />
+            <element signature="e#405#406#0" expanded="true" />
+            <element signature="e#432#433#0" expanded="true" />
+            <element signature="e#457#458#0" expanded="true" />
+            <element signature="e#491#492#0" expanded="true" />
+            <element signature="e#519#520#0" expanded="true" />
+            <element signature="e#550#551#0" expanded="true" />
+            <element signature="e#577#578#0" expanded="true" />
+            <element signature="e#617#618#0" expanded="true" />
+            <element signature="e#649#650#0" expanded="true" />
+            <element signature="e#680#681#0" expanded="true" />
+            <element signature="e#707#708#0" expanded="true" />
+            <element signature="e#747#748#0" expanded="true" />
+            <element signature="e#779#780#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mycustom-springboot-autoconfiguration/src/main/java/com/mycustom/MongoDBConfiguration.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="20" column="35" selection-start-line="20" selection-start-column="35" selection-end-line="20" selection-end-column="35" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ZlSpring/src/main/java/com/zhanglang/test/Test02.java">
+    <entry file="file://$PROJECT_DIR$/mycustom-springboot-autoconfiguration/src/main/java/com/mycustom/spi.java" />
+    <entry file="file://$PROJECT_DIR$/mycustom-springboot-autoconfiguration/src/main/java/com/mycustom/spi/Dog.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="11" selection-start-line="11" selection-end-line="11" />
+        <state relative-caret-position="228">
+          <caret line="12" column="34" selection-start-line="12" selection-start-column="34" selection-end-line="12" selection-end-column="34" />
+          <folding>
+            <element signature="e#247#248#0" expanded="true" />
+            <element signature="e#264#265#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_212/src.zip!/java/lang/reflect/Proxy.java">
+    <entry file="file://$PROJECT_DIR$/mycustom-springboot-autoconfiguration/src/main/java/com/mycustom/spi/Cat.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="226">
-          <caret line="702" column="25" selection-start-line="702" selection-start-column="25" selection-end-line="702" selection-end-column="25" />
+        <state relative-caret-position="228">
+          <caret line="12" column="34" selection-start-line="12" selection-start-column="34" selection-end-line="12" selection-end-column="34" />
+          <folding>
+            <element signature="e#247#248#0" expanded="true" />
+            <element signature="e#265#266#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ProxyCustom/src/main/java/com/zhanglang/handler/LubanInvocationHandler.java">
+    <entry file="file://$PROJECT_DIR$/mycustom-springboot-autoconfiguration/src/main/java/com/mycustom/spi/Animal.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        <state>
+          <caret column="8" selection-start-column="8" selection-end-column="24" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ProxyCustom/src/main/java/com/zhanglang/handler/MyParamInvocationHandler.java">
+    <entry file="jar://$PROJECT_DIR$/../../maven/repository/org/springframework/boot/spring-boot-autoconfigure/2.0.4.RELEASE/spring-boot-autoconfigure-2.0.4.RELEASE-sources.jar!/org/springframework/boot/autoconfigure/SpringBootApplication.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="304">
-          <caret line="18" column="47" selection-start-line="18" selection-start-column="47" selection-end-line="18" selection-end-column="47" />
+        <state relative-caret-position="130">
+          <caret line="50" column="18" selection-start-line="50" selection-start-column="18" selection-end-line="50" selection-end-column="18" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ZlSpring/src/main/java/com/zhanglang/handler/MyInvocationHandler.java">
+    <entry file="jar://$PROJECT_DIR$/../../maven/repository/org/springframework/boot/spring-boot-autoconfigure/2.0.4.RELEASE/spring-boot-autoconfigure-2.0.4.RELEASE-sources.jar!/org/springframework/boot/autoconfigure/EnableAutoConfiguration.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="9" selection-start-line="9" selection-end-line="10" />
+        <state relative-caret-position="130">
+          <caret line="79" column="27" selection-start-line="79" selection-start-column="27" selection-end-line="79" selection-end-column="27" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ProxyCustom/src/main/java/com/zhanglang/dao/LubanDao.java">
+    <entry file="jar://$PROJECT_DIR$/../../maven/repository/org/springframework/boot/spring-boot-autoconfigure/2.0.4.RELEASE/spring-boot-autoconfigure-2.0.4.RELEASE-sources.jar!/org/springframework/boot/autoconfigure/AutoConfigurationImportSelector.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="141">
+          <caret line="170" column="23" selection-start-line="170" selection-start-column="23" selection-end-line="170" selection-end-column="23" />
+          <folding>
+            <element signature="e#6582#6583#0" expanded="true" />
+            <element signature="e#6625#6626#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../../maven/repository/org/springframework/spring-core/5.0.8.RELEASE/spring-core-5.0.8.RELEASE.jar!/org/springframework/core/io/support/SpringFactoriesLoader.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-335">
+          <caret line="32" column="58" selection-start-line="32" selection-start-column="31" selection-end-line="32" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JavaSpiProvider/pom.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SpringSpi/src/main/resources/MET-INF/services/com.mycustom.spi.Animal" />
+    <entry file="file://$PROJECT_DIR$/mycustom-springboot-autoconfiguration/src/main/resources/META-INF/spring.factories">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="38">
-          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+          <caret line="2" column="45" selection-start-line="2" selection-start-column="45" selection-end-line="2" selection-end-column="45" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://$PROJECT_DIR$/../../maven/repository/org/springframework/spring-context/5.1.5.RELEASE/spring-context-5.1.5.RELEASE-sources.jar!/org/springframework/context/support/AbstractApplicationContext.java">
-=======
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_212/jre/lib/rt.jar!/com/sun/org/glassfish/external/statistics/impl/AverageRangeStatisticImpl.class" />
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_212/jre/lib/rt.jar!/sun/reflect/DelegatingConstructorAccessorImpl.class" />
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_212/src.zip!/java/lang/reflect/Constructor.java" />
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_212/jre/lib/rt.jar!/sun/reflect/InstantiationExceptionConstructorAccessorImpl.class" />
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_212/jre/lib/rt.jar!/sun/misc/Unsafe.class" />
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_212/jre/lib/rt.jar!/sun/reflect/BootstrapConstructorAccessorImpl.class" />
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_212/jre/lib/rt.jar!/sun/reflect/ConstructorAccessor.class" />
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_212/jre/lib/rt.jar!/sun/reflect/ConstructorAccessorImpl.class" />
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_212/jre/lib/rt.jar!/sun/reflect/NativeConstructorAccessorImpl.class" />
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_212/jre/lib/rt.jar!/sun/reflect/MethodAccessorGenerator.class" />
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_212/src.zip!/java/util/function/Supplier.java" />
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_212/src.zip!/java/util/function/BiFunction.java" />
-    <entry file="file://$PROJECT_DIR$/ProxyCustom/src/main/java/com/zhanglang/handler/ZhangInvocationHandler.java">
->>>>>>> f5aababe23c54b4b45780e9194516ca1c5623e74
+    <entry file="file://$PROJECT_DIR$/mycustom-springboot-autoconfiguration/src/main/resources/META-INF/services/com.mycustom.spi.Animal">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="137">
-          <caret line="1104" selection-start-line="1104" selection-end-line="1104" />
+        <state>
+          <caret selection-end-column="17" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ZlSpring/src/main/java/com/zhanglang/config/Appconfig.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="17" column="10" selection-start-line="17" selection-start-column="10" selection-end-line="17" selection-end-column="10" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
+    <entry file="jar://$PROJECT_DIR$/../../maven/repository/ch/qos/logback/logback-classic/1.2.3/logback-classic-1.2.3.jar!/META-INF/services/javax.servlet.ServletContainerInitializer">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/ZlSpring/src/main/java/com/zhanglang/monimybatis/MyInvocationHandler.java">
+    <entry file="jar://$PROJECT_DIR$/../../maven/repository/org/apache/logging/log4j/log4j-api/2.10.0/log4j-api-2.10.0.jar!/META-INF/services/org.apache.logging.log4j.util.PropertySource">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SpringSpi/src/main/java/com/zhanglang/action/JavaSpiAction.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="234">
+        <state relative-caret-position="266">
           <caret line="20" selection-start-line="20" selection-end-line="20" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -996,326 +886,243 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ZlSpring/src/main/java/com/zhanglang/dao/UserDaoImpl1.java">
+    <entry file="file://$PROJECT_DIR$/SpringSpi/src/main/resources/META-INF/services/com.mycustom.spi.Animal">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="304">
-          <caret line="16" column="19" selection-start-line="16" selection-start-column="19" selection-end-line="16" selection-end-column="19" />
+        <state>
+          <caret column="27" selection-start-column="27" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SpringSpi/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="17" column="52" selection-start-line="17" selection-start-column="52" selection-end-line="17" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SpringSpi/src/main/java/com/zhanglang/action/SpringSpiAction.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="23" column="14" selection-start-line="23" selection-start-column="14" selection-end-line="23" selection-end-column="14" />
           <folding>
-            <element signature="e#261#262#0" expanded="true" />
-            <element signature="e#306#307#0" expanded="true" />
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ZlSpring/src/main/java/com/zhanglang/dao/UserDaoImpl.java">
+    <entry file="file://$PROJECT_DIR$/SpringSpi/src/main/java/com/zhanglang/SpringSpiApplication.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="266">
-          <caret line="16" column="19" selection-start-line="16" selection-start-column="19" selection-end-line="16" selection-end-column="19" />
+        <state relative-caret-position="209">
+          <caret line="12" column="15" selection-start-line="12" selection-start-column="15" selection-end-line="12" selection-end-column="15" />
           <folding>
-            <element signature="e#259#260#0" expanded="true" />
-            <element signature="e#301#302#0" expanded="true" />
+            <element signature="imports" expanded="true" />
+            <element signature="e#391#392#0" expanded="true" />
+            <element signature="e#461#462#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-<<<<<<< HEAD
-    <entry file="file://$PROJECT_DIR$/ZlSpring/src/main/java/com/zhanglang/dao/MyUserDao.java">
+    <entry file="jar://$PROJECT_DIR$/../../maven/repository/org/apache/tomcat/embed/tomcat-embed-core/8.5.32/tomcat-embed-core-8.5.32-sources.jar!/javax/servlet/ServletContainerInitializer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="36" column="3" selection-start-line="36" selection-start-column="3" selection-end-line="36" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../../maven/repository/org/springframework/spring-web/5.0.8.RELEASE/spring-web-5.0.8.RELEASE-sources.jar!/org/springframework/web/SpringServletContainerInitializer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1615">
+          <caret line="111" column="34" selection-start-line="111" selection-start-column="34" selection-end-line="111" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../../maven/repository/org/springframework/spring-web/5.0.8.RELEASE/spring-web-5.0.8.RELEASE.jar!/META-INF/services/javax.servlet.ServletContainerInitializer">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SpringSpi/src/main/java/com/zhanglang/service/Tiger.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="247">
-          <caret line="15" column="13" lean-forward="true" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
-          <folding>
-            <element signature="e#258#259#0" expanded="true" />
-            <element signature="e#302#303#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$PROJECT_DIR$/../../maven/repository/org/mybatis/mybatis/3.5.0/mybatis-3.5.0.jar!/org/apache/ibatis/annotations/Select.class">
-=======
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_212/src.zip!/java/lang/Class.java" />
-    <entry file="file://$PROJECT_DIR$/ProxyCustom/src/main/java/com/zhanglang/handler/MyParamInvocationHandler.java">
->>>>>>> f5aababe23c54b4b45780e9194516ca1c5623e74
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="16" column="18" selection-start-line="16" selection-start-column="18" selection-end-line="16" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-<<<<<<< HEAD
-    <entry file="file://$PROJECT_DIR$/ZlSpring/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="386">
-          <caret line="50" column="21" selection-start-line="50" selection-start-column="21" selection-end-line="50" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ZlSpring/src/main/resources/application.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="5" column="4" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ZlSpring/src/main/java/com/zhanglang/monimybatis/TestInject.java">
-=======
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_212/src.zip!/java/lang/reflect/Proxy.java" />
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_212/jre/lib/rt.jar!/sun/misc/ProxyGenerator.class" />
-    <entry file="file://$PROJECT_DIR$/ProxyCustom/src/main/java/com/zhanglang/proxy/ProxyParamUtil.java">
->>>>>>> f5aababe23c54b4b45780e9194516ca1c5623e74
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="239">
-          <caret line="17" selection-start-line="17" selection-end-line="17" />
+          <caret line="15" column="37" selection-start-line="15" selection-start-column="37" selection-end-line="15" selection-end-column="37" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ZlSpring/src/main/java/com/zhanglang/dao/UserDao.java">
+    <entry file="jar://$PROJECT_DIR$/../../maven/repository/org/springframework/spring-context/5.0.8.RELEASE/spring-context-5.0.8.RELEASE-sources.jar!/org/springframework/stereotype/Service.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="467">
+          <caret line="54" column="43" selection-start-line="54" selection-start-column="43" selection-end-line="54" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SheJiMoshi/pom.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SheJiMoshi/src/main/java/com/dywy/yuanze/LishiTihuan.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="247">
-          <caret line="13" column="32" selection-start-line="13" selection-start-column="32" selection-end-line="13" selection-end-column="32" />
+          <caret line="13" column="29" lean-forward="true" selection-start-line="13" selection-start-column="29" selection-end-line="13" selection-end-column="29" />
           <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ZlSpring/src/main/java/com/zhanglang/monimybatis/MyFactoryBean.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="424">
-          <caret line="42" column="36" lean-forward="true" selection-start-line="42" selection-start-column="36" selection-end-line="42" selection-end-column="36" />
-          <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="e#471#472#0" expanded="true" />
             <element signature="e#516#517#0" expanded="true" />
-            <element signature="e#549#550#0" expanded="true" />
-            <element signature="e#942#943#0" expanded="true" />
-            <element signature="e#970#971#0" expanded="true" />
+            <element signature="e#578#579#0" expanded="true" />
+            <element signature="e#631#632#0" expanded="true" />
+            <element signature="e#673#674#0" expanded="true" />
+            <element signature="e#720#721#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-<<<<<<< HEAD
-    <entry file="file://$PROJECT_DIR$/ProxyCustom/src/main/java/com/zhanglang/test/Test02.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="418">
-          <caret line="26" column="9" selection-start-line="26" selection-start-column="9" selection-end-line="26" selection-end-column="9" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ProxyCustom/src/main/java/com/zhanglang/test/Test01.java">
-=======
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_212/src.zip!/java/lang/reflect/WeakCache.java" />
-    <entry file="file://$PROJECT_DIR$/ZlSpring/src/main/java/com/zhanglang/dao/UserDaoImpl.java">
->>>>>>> f5aababe23c54b4b45780e9194516ca1c5623e74
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="266">
-          <caret line="24" column="42" selection-start-line="24" selection-start-column="42" selection-end-line="24" selection-end-column="42" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ProxyCustom/src/main/java/com/zhanglang/handler/ZhangInvocationHandler.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="247">
-          <caret line="14" column="11" selection-start-line="14" selection-start-column="11" selection-end-line="14" selection-end-column="11" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#409#410#0" expanded="true" />
-            <element signature="e#445#446#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ProxyCustom/src/main/java/com/zhanglang/handler/TestCustomHandler.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="266">
-          <caret line="17" column="44" selection-start-line="17" selection-start-column="44" selection-end-line="17" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ProxyCustom/src/main/java/com/zhanglang/dao/LubanDaoImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-<<<<<<< HEAD
-    <entry file="file://$PROJECT_DIR$/ProxyCustom/src/main/java/com/zhanglang/dao/UserDaoImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="12" selection-start-line="12" selection-end-line="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ZlSpring/src/main/java/com/zhanglang/monimybatis/MyImportBeanDefinitionRegistrar.java">
-=======
-    <entry file="file://$PROJECT_DIR$/ZlSpring/src/main/java/com/zhanglang/test/Test01.java">
->>>>>>> f5aababe23c54b4b45780e9194516ca1c5623e74
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="20" column="13" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SpringLog/target/classes/log4j.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
-          <caret line="12" column="57" selection-end-line="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$PROJECT_DIR$/../../maven/repository/log4j/log4j/1.2.17/log4j-1.2.17.jar!/org/apache/log4j/Logger.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="16" column="25" selection-start-line="16" selection-start-column="25" selection-end-line="16" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ZlSpring/src/main/java/com/zhanglang/monimybatis/ZhangScan.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
-          <caret line="15" column="30" selection-start-line="15" selection-start-column="30" selection-end-line="15" selection-end-column="30" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ProxyCustom/src/main/java/com/zhanglang/handler/CoustomInvocationHandler.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="4" column="17" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ProxyCustom/src/main/java/com/zhanglang/handler/ParamInvocationHandler.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="11" column="17" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="uml://MAVEN/com.spring:SpringLog:1.0-SNAPSHOT">
-      <provider selected="true" editor-type-id="UmlEditorProvider">
-        <state>
-          <ID>MAVEN</ID>
-          <OriginalElement>com.spring:SpringLog:1.0-SNAPSHOT</OriginalElement>
-          <nodes>
-            <node x="" y="">com.spring:SpringLog:1.0-SNAPSHOT</node>
-            <node x="" y="">org.springframework:spring-context:jar:5.1.5.RELEASE</node>
-            <node x="" y="">org.springframework:spring-context:jar:5.1.5.RELEASE/org.springframework:spring-aop:jar:5.1.5.RELEASE</node>
-            <node x="" y="">org.springframework:spring-context:jar:5.1.5.RELEASE/org.springframework:spring-beans:jar:5.1.5.RELEASE</node>
-            <node x="" y="">org.springframework:spring-context:jar:5.1.5.RELEASE/org.springframework:spring-core:jar:5.1.5.RELEASE</node>
-            <node x="" y="">org.springframework:spring-context:jar:5.1.5.RELEASE/org.springframework:spring-core:jar:5.1.5.RELEASE/org.springframework:spring-jcl:jar:5.1.5.RELEASE</node>
-            <node x="" y="">org.springframework:spring-context:jar:5.1.5.RELEASE/org.springframework:spring-expression:jar:5.1.5.RELEASE</node>
-            <node x="" y="">log4j:log4j:jar:1.2.17</node>
-            <node x="" y="">org.slf4j:slf4j-api:jar:1.7.25</node>
-            <node x="" y="">org.slf4j:slf4j-jcl:jar:1.7.25</node>
-            <node x="" y="">org.slf4j:slf4j-jcl:jar:1.7.25/commons-logging:commons-logging:jar:1.1.1</node>
-          </nodes>
-          <notes />
-          <edges />
-          <settings layout="Hierarchic Group" zoom="1.0" x="237.0" y="137.0" />
-          <SelectedNodes />
-          <Categories />
-          <VISIBILITY>All</VISIBILITY>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SpringLog/src/main/java/com/zhanglang/log4jdemo/test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="304">
-          <caret line="16" column="27" selection-start-line="16" selection-start-column="27" selection-end-line="16" selection-end-column="27" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-<<<<<<< HEAD
-    <entry file="file://$PROJECT_DIR$/SpringLog/pom.xml">
-=======
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-beans/5.1.5.RELEASE/spring-beans-5.1.5.RELEASE-sources.jar!/org/springframework/beans/factory/FactoryBean.java">
->>>>>>> f5aababe23c54b4b45780e9194516ca1c5623e74
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="367">
-          <caret line="28" column="26" selection-start-line="28" selection-start-column="26" selection-end-line="28" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SpringLog/src/main/java/com/zhanglang/log4jdemo/Test01.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="15" column="27" selection-start-line="15" selection-start-column="27" selection-end-line="15" selection-end-column="27" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SpringLog/src/main/resources/log4j.properties">
-      <provider selected="true" editor-type-id="text-editor">
-<<<<<<< HEAD
-        <state>
-          <caret column="21" selection-start-column="21" selection-end-column="21" />
-=======
-        <state relative-caret-position="683">
-          <caret line="38" column="26" selection-start-line="38" selection-start-column="26" selection-end-line="38" selection-end-column="26" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
->>>>>>> f5aababe23c54b4b45780e9194516ca1c5623e74
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ZlSpring/src/main/java/com/zhanglang/anno/Zhang.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="5" column="34" selection-start-line="5" selection-start-column="34" selection-end-line="5" selection-end-column="34" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ZlSpring/src/main/java/com/zhanglang/service/UserServiceImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="303">
-          <caret line="17" column="40" selection-start-line="17" selection-start-column="40" selection-end-line="17" selection-end-column="40" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#369#370#0" expanded="true" />
-            <element signature="e#387#388#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ZlSpring/src/main/java/com/zhanglang/test/Test02.java">
+    <entry file="file://$PROJECT_DIR$/SheJiMoshi/src/main/java/com/dywy/yuanze/DanyiZhize.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="133">
-          <caret line="7" column="46" selection-start-line="7" selection-start-column="46" selection-end-line="7" selection-end-column="46" />
+          <caret line="7" column="24" selection-start-line="7" selection-start-column="24" selection-end-line="7" selection-end-column="24" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ZlSpring/src/main/java/org/spring/util/AnnotationConfigApplicationContext.java">
+    <entry file="file://$PROJECT_DIR$/SheJiMoshi/src/main/java/com/dywy/yuanze/JiekouGeli.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="208">
-          <caret line="14" column="23" selection-start-line="14" selection-start-column="19" selection-end-line="14" selection-end-column="23" />
+        <state relative-caret-position="361">
+          <caret line="28" column="6" selection-start-line="28" selection-start-column="6" selection-end-line="28" selection-end-column="6" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="e#457#458#0" expanded="true" />
+            <element signature="e#496#497#0" expanded="true" />
+            <element signature="e#536#537#0" expanded="true" />
+            <element signature="e#575#576#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/SheJiMoshi/src/main/java/com/dywy/yuanze/YilaiDaozhi.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="21" column="60" selection-start-line="21" selection-start-column="60" selection-end-line="21" selection-end-column="60" />
+          <folding>
+            <element signature="e#732#733#0" expanded="true" />
+            <element signature="e#759#760#0" expanded="true" />
+            <element signature="e#516#517#0" expanded="true" />
+            <element signature="e#536#537#0" expanded="true" />
+            <element signature="e#501#502#0" expanded="true" />
+            <element signature="e#537#538#0" expanded="true" />
+            <element signature="e#600#601#0" expanded="true" />
+            <element signature="e#648#649#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SheJiMoshi/src/main/java/com/dywy/yuanze/Kaibi.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="12" column="28" selection-start-line="12" selection-start-column="28" selection-end-line="12" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SheJiMoshi/src/main/java/com/dywy/yuanze/Dimite.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="8" column="42" selection-start-line="8" selection-start-column="42" selection-end-line="8" selection-end-column="42" />
+          <folding>
+            <element signature="e#752#753#0" expanded="true" />
+            <element signature="e#793#794#0" expanded="true" />
+            <element signature="e#561#562#0" expanded="true" />
+            <element signature="e#604#605#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SheJiMoshi/src/main/java/com/dywy/moshi/Danli.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1450">
+          <caret line="83" column="42" lean-forward="true" selection-start-line="83" selection-start-column="42" selection-end-line="83" selection-end-column="42" />
+          <folding>
+            <element signature="e#2090#2091#0" expanded="true" />
+            <element signature="e#2139#2140#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SheJiMoshi/src/main/java/com/dywy/jichu/Jichu.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="236">
+          <caret line="14" column="6" lean-forward="true" selection-start-line="14" selection-start-column="6" selection-end-line="14" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Spring</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>HashMapAndConcurrentHashMap</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: ch.qos.logback:logback-classic:1.2.3</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
   </component>
 </project>

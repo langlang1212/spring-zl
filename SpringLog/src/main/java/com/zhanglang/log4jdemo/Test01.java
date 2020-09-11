@@ -13,6 +13,6 @@ import org.apache.commons.logging.LogFactory;
 public class Test01 {
     public static void main(String[] args) {
         Log log = LogFactory.getLog("log4j");
-        log.info("sdfsdf");
+        log.debug("sdfsdf");
     }
 }

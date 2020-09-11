@@ -1,0 +1,3 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=com.mycustom.MongoDBConfiguration
+
+#com.mycustom.spi.Animal=com.mycustom.spi.Cat

@@ -2,7 +2,9 @@ package com.zhanglang.test;
 
 import com.zhanglang.config.Appconfig;
 import com.zhanglang.dao.Dao;
-import com.zhanglang.dao.IndexDao;
+import com.zhanglang.dao.IndexDaoA;
+import com.zhanglang.dao.IndexDaoB;
+import com.zhanglang.dao.IndexService;
 import org.springframework.context.annotation.AnnotationConfigApplicationContext;
 
 /**
@@ -22,8 +24,10 @@ public class ProxyTest {
          * CGLIB动态代理，生成代理对象是继承于目标对象的。
          */
         //IndexDao indexDao = annotationConfigApplicationContext.getBean(IndexDao.class); // 如果是这个加上aop会报错
-        //Dao indexDao = annotationConfigApplicationContext.getBean(Dao.class);
-        Dao indexDao = (Dao) annotationConfigApplicationContext.getBean("indexDao");
-        indexDao.query();
+        IndexDaoB indexDao = annotationConfigApplicationContext.getBean(IndexDaoB.class);
+        System.out.println(indexDao instanceof IndexDaoB);
+
+        /*IndexService service = annotationConfigApplicationContext.getBean(IndexService.class);
+        service.say();*/
     }
 }

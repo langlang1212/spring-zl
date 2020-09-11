@@ -1,0 +1,7 @@
+com\mycustom\MongoDBConfiguration.class
+com\mycustom\spi\Cat.class
+com\mycustom\MongoDBConnection.class
+com\mycustom\spi\Dog.class
+com\mycustom\spi\Animal.class
+META-INF\spring-configuration-metadata.json
+com\mycustom\MongoDBProperties.class

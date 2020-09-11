@@ -6,12 +6,58 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="ProxyCustom" />
-        <module name="SpringIoc" />
-        <module name="ZlSpring" />
         <module name="SpringAop" />
+        <module name="JavaSpiProvider" />
+        <module name="mycustom-springboot-starter" />
         <module name="SpringLog" />
+        <module name="SpringIoc" />
+        <module name="mycustom-springboot-autoconfiguration" />
+        <module name="SpringSpi" />
+        <module name="HashMapAndConcurrentHashMap18" />
+        <module name="SpringMybatis" />
+        <module name="ProxyCustom" />
+        <module name="HashMapAndConcurrentHashMap" />
+        <module name="ProxyPractice" />
+        <module name="AopYuanli" />
+        <module name="SpringAsync" />
+        <module name="SheJiMoshi" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel target="8">
+      <module name="AopYuanli" target="1.8" />
+      <module name="HashMapAndConcurrentHashMap" target="1.8" />
+      <module name="HashMapAndConcurrentHashMap18" target="1.8" />
+      <module name="JavaSpiProvider" target="1.8" />
+      <module name="mycustom-springboot-autoconfiguration" target="1.8" />
+      <module name="mycustom-springboot-starter" target="1.8" />
+      <module name="ProxyCustom" target="1.8" />
+      <module name="ProxyPractice" target="1.8" />
+      <module name="SheJiMoshi" target="1.8" />
+      <module name="Spring-zl" target="1.8" />
+      <module name="SpringAop" target="1.8" />
+      <module name="SpringAsync" target="1.8" />
+      <module name="SpringIoc" target="1.8" />
+      <module name="SpringLog" target="1.8" />
+      <module name="SpringMybatis" target="1.8" />
+      <module name="SpringSpi" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="AopYuanli" options="-parameters" />
+      <module name="HashMapAndConcurrentHashMap" options="-parameters" />
+      <module name="JavaSpiProvider" options="-parameters" />
+      <module name="ProxyCustom" options="-parameters" />
+      <module name="ProxyPractice" options="-parameters" />
+      <module name="SheJiMoshi" options="-parameters" />
+      <module name="SpringAop" options="-parameters" />
+      <module name="SpringAsync" options="-parameters" />
+      <module name="SpringIoc" options="-parameters" />
+      <module name="SpringLog" options="-parameters" />
+      <module name="SpringMybatis" options="-parameters" />
+      <module name="SpringSpi" options="-parameters" />
+      <module name="mycustom-springboot-autoconfiguration" options="-parameters" />
+      <module name="mycustom-springboot-starter" options="-parameters" />
+    </option>
   </component>
 </project>

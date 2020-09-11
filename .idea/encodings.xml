@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/AopYuanli" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/HashMapAndConcurrentHashMap" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/JavaSpiProvider" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ProxyCustom" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ProxyPractice" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/SheJiMoshi" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/SpringAop" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/SpringAsync" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/SpringIoc" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/SpringLog" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/SpringMybatis" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/SpringSpi" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mycustom-springboot-autoconfiguration" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mycustom-springboot-starter" charset="UTF-8" />
+  </component>
+</project>

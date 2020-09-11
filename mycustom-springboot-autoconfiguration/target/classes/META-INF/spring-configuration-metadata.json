@@ -1,0 +1,22 @@
+{
+  "hints": [],
+  "groups": [
+    {
+      "sourceType": "com.mycustom.MongoDBProperties",
+      "name": "mongodb.conn",
+      "type": "com.mycustom.MongoDBProperties"
+    }
+  ],
+  "properties": [
+    {
+      "sourceType": "com.mycustom.MongoDBProperties",
+      "name": "mongodb.conn.ip",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "com.mycustom.MongoDBProperties",
+      "name": "mongodb.conn.port",
+      "type": "java.lang.String"
+    }
+  ]
+}

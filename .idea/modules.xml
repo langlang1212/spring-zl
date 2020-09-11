@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/AopYuanli/AopYuanli.iml" filepath="$PROJECT_DIR$/AopYuanli/AopYuanli.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HashMapAndConcurrentHashMap/HashMapAndConcurrentHashMap.iml" filepath="$PROJECT_DIR$/HashMapAndConcurrentHashMap/HashMapAndConcurrentHashMap.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HashMapAndConcurrentHashMap18/HashMapAndConcurrentHashMap18.iml" filepath="$PROJECT_DIR$/HashMapAndConcurrentHashMap18/HashMapAndConcurrentHashMap18.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaSpiProvider/JavaSpiProvider.iml" filepath="$PROJECT_DIR$/JavaSpiProvider/JavaSpiProvider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ProxyCustom/ProxyCustom.iml" filepath="$PROJECT_DIR$/ProxyCustom/ProxyCustom.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ProxyPractice/ProxyPractice.iml" filepath="$PROJECT_DIR$/ProxyPractice/ProxyPractice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SheJiMoshi/SheJiMoshi.iml" filepath="$PROJECT_DIR$/SheJiMoshi/SheJiMoshi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Spring-zl.iml" filepath="$PROJECT_DIR$/.idea/Spring-zl.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SpringAop/SpringAop.iml" filepath="$PROJECT_DIR$/SpringAop/SpringAop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SpringAsync/SpringAsync.iml" filepath="$PROJECT_DIR$/SpringAsync/SpringAsync.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SpringIoc/SpringIoc.iml" filepath="$PROJECT_DIR$/SpringIoc/SpringIoc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SpringLog/SpringLog.iml" filepath="$PROJECT_DIR$/SpringLog/SpringLog.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SpringMybatis/SpringMybatis.iml" filepath="$PROJECT_DIR$/SpringMybatis/SpringMybatis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SpringSpi/SpringSpi.iml" filepath="$PROJECT_DIR$/SpringSpi/SpringSpi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mycustom-springboot-autoconfiguration/mycustom-springboot-autoconfiguration.iml" filepath="$PROJECT_DIR$/mycustom-springboot-autoconfiguration/mycustom-springboot-autoconfiguration.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mycustom-springboot-starter/mycustom-springboot-starter.iml" filepath="$PROJECT_DIR$/mycustom-springboot-starter/mycustom-springboot-starter.iml" />
+    </modules>
+  </component>
+</project>
